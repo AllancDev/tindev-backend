@@ -1,0 +1,23 @@
+/**
+ * 
+ *  GET, POST, PUT, DELETE
+ *  GET -> BUSCAR INFORMAÇÂO API
+ *  POST -> CRIAR INFORMAÇÂO
+ *  PUT -> ALTERAR INFORMAÇÂO
+ *  DELETE -> DELETAR INFORMAÇÃO
+ * 
+ */
+
+
+/**
+ * 
+ * - JSON -
+ * {
+ *      message: "Mensagem"
+ * }
+ * 
+ */
+
+
+ /**
+   * INDEX, SHOW, STORE, UPDATE, DELETE -> Boas praticas para o desenvolvimento de APIs 
